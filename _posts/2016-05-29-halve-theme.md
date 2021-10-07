@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Halve Jekyll Theme"
+title:  "Halve Jekyll Theme3d8a"
 date:   2016-05-29
 excerpt: "Stylish, two-column Jekyll theme for your blog."
 tag:
