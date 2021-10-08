@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# About Theme
+# Coche
 
 This theme is Dr. Fun-Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
